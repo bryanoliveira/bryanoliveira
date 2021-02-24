@@ -10,6 +10,7 @@ Passionate computer scientist, thrilled by innovation and amazed by the human br
 
 - 🔭 I’m currently working on applied offline reinforcement learning for debt collection
 - 🌱 I’m currently learning as much as I can about the human brain
+- :muscle: Future goal: start writing a blog
 - 💬 Ask me about development, deployment and PC building.
 <!-- <> - ⚡ Fun fact: I didn't think of any fun fact yet. -->
 <!-- - 👯 I’m looking to collaborate on -->
