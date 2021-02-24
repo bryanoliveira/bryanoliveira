@@ -16,6 +16,5 @@ Passionate computer scientist, thrilled by innovation and amazed by the human br
 <!-- - 👯 I’m looking to collaborate on -->
 <!-- - 🤔 I’m looking for help with neuroscience and the nature of consciousness -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryanoliveira&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=bryanoliveira&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+
