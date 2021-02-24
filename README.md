@@ -1,9 +1,10 @@
 ### Hi there 👋 I'm Bryan 
 
-[![Website](https://img.shields.io/badge/Website-444?logo=github)](https://bryanoliveira.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryanoliveira)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=white)](https://twitter.com/bryanlincoln_)
-[![Email](https://img.shields.io/badge/Email-EA4335?&logo=gmail&logoColor=white)](mailto:bryanlmoliveira@gmail.com)
+[![website](https://img.shields.io/badge/website-444?logo=github)](https://bryanoliveira.github.io/)
+[![linkedIn](https://img.shields.io/badge/linkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryanoliveira)
+[![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&logo=twitter&logoColor=white)](https://twitter.com/bryanlincoln_)
+[![email](https://img.shields.io/badge/email-EA4335?&logo=gmail&logoColor=white)](mailto:bryanlmoliveira@gmail.com)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bryanoliveira)
 
 Passionate computer scientist, thrilled by innovation and amazed by the human brain. Working towards human-like artificial general intelligence through deep reinforcement learning research and machine learning engineering. Voracious meta-learner in the free time.
 
