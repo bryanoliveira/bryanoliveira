@@ -8,11 +8,11 @@
 
 Passionate computer scientist, thrilled by innovation and amazed by the human brain. Working towards human-like artificial general intelligence through deep reinforcement learning research and machine learning engineering. Voracious meta-learner in the free time.
 
-- 🔭 I’m currently working on applied offline reinforcement learning for debt collection
-- 🌱 I’m currently learning as much as I can about the human brain
+- 🔭 I’m currently working on applied offline reinforcement learning and machine learning engineering
+- 🌱 I’m currently learning parallel computing (with CUDA) and as much as I can about the human brain
 - :muscle: Future goal: start writing a blog
-- 💬 Ask me about development, deployment and PC building.
-<!-- <> - ⚡ Fun fact: I didn't think of any fun fact yet. -->
+- 💬 Ask me about development, deployment and PC building
+- ⚡ Fun fact: I'm an eclectic when it comes to any type of art
 <!-- - 👯 I’m looking to collaborate on -->
 <!-- - 🤔 I’m looking for help with neuroscience and the nature of consciousness -->
 
