@@ -12,9 +12,14 @@ Passionate computer scientist, thrilled by innovation and amazed by the human br
 - 🌱 I’m currently learning parallel computing (with CUDA) and as much as I can about the human brain
 - :muscle: Future goals: start writing a blog and learn Rust
 - 💬 Ask me about development, deployment and PC building
-- ⚡ Fun fact: I'm an eclectic when it comes to any type of art
-<!-- - 👯 I’m looking to collaborate on -->
-<!-- - 🤔 I’m looking for help with neuroscience and the nature of consciousness -->
+- ⚡ Fun fact: I once [wrote a program](https://github.com/bryanoliveira/cellular-automata) that uses [Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) to simulate Life:
 
-<img src="https://github-readme-stats.vercel.app/api?username=bryanoliveira&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<div align="center">
+<a href="https://github.com/bryanoliveira/cellular-automata">
+<img src="zoom.gif"/>
+</a>
+</div>
 
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=bryanoliveira&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
