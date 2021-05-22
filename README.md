@@ -6,11 +6,11 @@
 [![email](https://img.shields.io/badge/email-EA4335?&logo=gmail&logoColor=white)](mailto:bryanlmoliveira@gmail.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bryanoliveira)
 
-Passionate computer scientist, thrilled by innovation and amazed by the human brain. Working towards human-like artificial general intelligence through deep reinforcement learning research and machine learning engineering. Voracious meta-learner in the free time.
+Passionate computer scientist, thrilled by innovation and amazed by the human brain. Working towards artificial general intelligence through deep reinforcement learning research and machine learning engineering. Voracious meta-learner in the free time.
 
 - 🔭 I’m currently working on applied offline reinforcement learning and machine learning engineering
 - 🌱 I’m currently learning parallel computing (with CUDA) and as much as I can about the human brain
-- :muscle: Future goals: start writing a blog and learn Rust
+- :muscle: Future goals: start writing a blog and build my own game engine from scratch
 - 💬 Ask me about development, deployment and PC building
 - ⚡ Fun fact: I once wrote [a program](https://github.com/bryanoliveira/cellular-automata) that could simulate [Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) _within_ Life itself:
 
