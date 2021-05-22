@@ -6,7 +6,7 @@
 [![email](https://img.shields.io/badge/email-EA4335?&logo=gmail&logoColor=white)](mailto:bryanlmoliveira@gmail.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bryanoliveira)
 
-Passionate computer scientist, thrilled by innovation and amazed by the human brain. Working towards artificial general intelligence through deep reinforcement learning research and machine learning engineering. Voracious meta-learner in the free time.
+Passionate computer scientist, thrilled by innovation and amazed by the human brain. Interested in high-performance computing and working towards artificial general intelligence through deep reinforcement learning research and machine learning engineering. Voracious meta-learner in the free time.
 
 - 🔭 I’m currently working on applied offline reinforcement learning and machine learning engineering
 - 🌱 I’m currently learning parallel computing (with CUDA) and as much as I can about the human brain
