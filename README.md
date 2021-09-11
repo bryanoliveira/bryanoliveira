@@ -23,4 +23,4 @@ Passionate computer scientist, thrilled by innovation and amazed by the human br
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=bryanoliveira&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-![Snake animation](https://github.com/bryanoliveira/bryanoliveira/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/bryanoliveira/bryanoliveira/blob/output/github-contribution-grid-snake.svg"/>
