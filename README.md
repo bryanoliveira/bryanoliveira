@@ -4,6 +4,7 @@
 [![linkedIn](https://img.shields.io/badge/linkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryanoliveira)
 [![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&logo=twitter&logoColor=white)](https://twitter.com/bryanlincoln_)
 [![email](https://img.shields.io/badge/email-EA4335?&logo=gmail&logoColor=white)](mailto:bryanlmoliveira@gmail.com)
+[![pypi](https://img.shields.io/badge/-pypi-yellow?logo=PyPI)](https://pypi.org/user/bryanlincoln/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bryanoliveira)
 
 Passionate computer scientist, thrilled by innovation and amazed by the human brain. Interested in high-performance computing and working towards artificial general intelligence through deep reinforcement learning research and machine learning engineering. Voracious meta-learner in the free time.
