@@ -6,7 +6,7 @@
 [![twitter](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/bryanlincoln_)
 [![email](https://img.shields.io/badge/email-EA4335?&logo=gmail&logoColor=white)](mailto:bryanlmoliveira@gmail.com)
 [![pypi](https://img.shields.io/badge/-pypi-yellow?logo=PyPI)](https://pypi.org/user/bryanlincoln/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bryanoliveira)
+![visitors](https://komarev.com/ghpvc/?username=bryanoliveira&color=blueviolet)
 
 I'm an AI researcher leading interdisciplinary research teams developing cutting-edge AI systems, focusing on reinforcement learning for decision-making systems. Currently seeking PhD opportunities to advance research towards generalist agents that learn from experience.
 
