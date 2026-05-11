@@ -20,7 +20,7 @@ I'm an AI researcher and PhD student in Computer Science at the [Federal Univers
 
 | Paper                                                                                                                              | Venue                    |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [Sliding Puzzles Gym: A Scalable Benchmark for State Representation in RL](https://proceedings.mlr.press/v235/de-oliveira24a.html) | ICML 2024                |
+| [Sliding Puzzles Gym: A Scalable Benchmark for State Representation in RL](https://proceedings.mlr.press/v235/de-oliveira24a.html) | ICML 2025                |
 | [Learning Without Critics? Revisiting GRPO in Classical RL](https://arxiv.org/abs/2511.03527)                                      | NeurIPS 2025 Workshop    |
 | [Reinforcement Learning for Debt Pricing: A Case Study in Financial Services](https://openreview.net/forum?id=1cfG46owm8)          | RLC 2025 Workshop        |
 | [InfoQuest: Evaluating Multi-Turn Dialogue Agents](https://arxiv.org/abs/2502.12257)                                               | RLC 2025 Workshop (Oral) |
